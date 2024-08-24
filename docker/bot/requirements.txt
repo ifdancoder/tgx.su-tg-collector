@@ -1,0 +1,13 @@
+python-dotenv
+urllib3==1.26.6
+telethon
+python-telegram-bot
+asyncio
+sqlalchemy
+mysqlclient
+pydub
+SpeechRecognition
+requests
+ollama
+pytz
+fuzzywuzzy
